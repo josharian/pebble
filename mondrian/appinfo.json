@@ -1,0 +1,17 @@
+{
+  "uuid": "13a6f41e-fc90-438b-9b76-b2173a4f9657",
+  "shortName": "Mondrian",
+  "longName": "Mondrian",
+  "companyName": "Treeline Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
