@@ -1,0 +1,23 @@
+{
+  "uuid": "4c167fa4-967b-4edd-b55f-778707914d9c",
+  "shortName": "qr",
+  "longName": "qr",
+  "companyName": "Treeline Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "raw",
+        "name": "QR",
+        "file": "packed/all.qr"
+      }
+    ]
+  }
+}
