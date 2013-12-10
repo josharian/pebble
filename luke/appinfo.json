@@ -1,0 +1,17 @@
+{
+  "uuid": "3c74f0ba-5bb6-4467-b9da-be2c9f893031",
+  "shortName": "Luke",
+  "longName": "Luke",
+  "companyName": "Treeline Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
